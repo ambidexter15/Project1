@@ -1,3 +1,4 @@
 merging conflicts -a
-merging conflicts -b
+
 merging conflcts - c
+changes in first branch 
