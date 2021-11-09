@@ -1,4 +1,8 @@
 merging conflicts -a
-merging conflicts -b
+
 merging conflcts - c
+<<<<<<< HEAD
 Let's see
+=======
+changes in first branch 
+>>>>>>> func
